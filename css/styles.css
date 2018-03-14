@@ -9,5 +9,12 @@
 }
 
 .about-me {
-  
+  color: #7c2c7b;
+  font-style: italic;
+  font-size: 18px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
 }
